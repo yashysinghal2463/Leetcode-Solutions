@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
