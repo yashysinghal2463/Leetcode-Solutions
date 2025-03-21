@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
