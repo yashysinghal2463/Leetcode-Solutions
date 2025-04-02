@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
