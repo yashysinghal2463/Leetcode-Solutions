@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -85,5 +86,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
