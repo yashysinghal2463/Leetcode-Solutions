@@ -15,11 +15,13 @@
 | [0007-reverse-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
