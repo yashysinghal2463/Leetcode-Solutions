@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@
 | [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
