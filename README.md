@@ -115,4 +115,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
