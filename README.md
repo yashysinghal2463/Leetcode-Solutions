@@ -21,6 +21,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -94,10 +95,12 @@
 | [0020-valid-parentheses](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/yashysinghal2463/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
